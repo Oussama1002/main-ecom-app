@@ -1,2 +1,0 @@
-# main-ecom-app
- 
